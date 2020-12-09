@@ -1,4 +1,4 @@
-# kh-real-estate
+# Predictive models of real estate prices in Kaohsiung, Taiwan
 This is a machine learning project for predicting the real estate prices in Kaohsiung, Taiwan.
 
 # Data
