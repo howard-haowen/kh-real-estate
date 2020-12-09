@@ -1,5 +1,5 @@
-# Predictive models of real estate prices in Kaohsiung, Taiwan
-This is a machine learning project for predicting the real estate prices in Kaohsiung, Taiwan.
+# About
+This is a machine learning project for creating models to predict the real estate prices in Kaohsiung, Taiwan.
 
 # Data
 The raw data, named `a_trade_raw.pkl`, is too big to be uploaded to GitHub, so I sotre it on [Google Drive](https://drive.google.com/drive/folders/1AL8QH4WFJ9iThYeeU9tO8S_AFRovU05T?usp=sharing), along with two regressor models (see below).
