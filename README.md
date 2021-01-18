@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoward-haowen%2Fkh-real-estate&count_bg=%2367E805&title_bg=%23555555&icon=grav.svg&icon_color=%2367E805&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # About
 This is a machine learning project for creating models to predict the real estate prices in Kaohsiung, Taiwan. This is an ongoing project, to be described in more detail when I find time to do so. 
 
